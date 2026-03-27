@@ -1,5 +1,3 @@
-# FruitBox Hybrid Bot (Corner-to-Corner Calibration)
-
 # 🍎 Fruit Box (사과 게임) AI Auto-Solver
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
