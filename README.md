@@ -87,8 +87,8 @@ pip install -r requirements.txt
 
 https://apple.oshizi.com/play/1ttsUGBm6VceVG19MU520LNKojPyzsq1BTttKQUIi5QvSSOr-VFG97FzxE9YjBkjvmqnyaUNYItNY2bjFlqkTTqCwF07loH
 
-- F6 : 최상단 최좌측(첫 칸) 중심 클릭
-- F7 : 최하단 최우측(마지막 칸) 중심 클릭 → 자동으로 셀 크기(CELL_SIZE)/보드 영역 계산
+- F3 : 최상단 최좌측(첫 칸) 중심 클릭
+- F4 : 최하단 최우측(마지막 칸) 중심 클릭 → 자동으로 셀 크기(CELL_SIZE)/보드 영역 계산
 - F8 : 분석 및 풀이 1회 실행
 - F9 / F12 : 🚨 긴급 강제 종료 (언제든지 즉시 멈춤)
 - ESC: 종료
